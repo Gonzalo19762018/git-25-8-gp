@@ -3,3 +3,4 @@ drwxr-xr-x 1 USUARIO 197121 0 Aug 25 12:52 ./
 drwxr-xr-x 1 USUARIO 197121 0 Aug 25 12:41 ../
 drwxr-xr-x 1 USUARIO 197121 0 Aug 25 12:43 .git/
 -rw-r--r-- 1 USUARIO 197121 0 Aug 25 12:52 f1.txt
+trabajamos duro para salir adelante con esta carrera
